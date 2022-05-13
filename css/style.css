@@ -84,7 +84,7 @@ a, a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 180px;
+    height: 180;
 }
 
 .dsmovie-card-description h3 {
@@ -113,7 +113,7 @@ a, a:hover {
 
 
 .dsmovie-btn, .dsmovie-btn:hover {
-    width: 180px;
+    width: 200px;
     height: 40px;
     background-color: var(--black);
     color: var(--white);
